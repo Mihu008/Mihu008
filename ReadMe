@@ -1,0 +1,56 @@
+👋 Hi, I'm Mihir Singh Netam
+🎯 Full Stack Developer
+💻 Passionate about building scalable, user-centric web applications
+🚀 Focused on clean architecture, performance, and intuitive UI
+🧑‍💻 About Me
+I’m a full stack developer with hands-on experience designing and developing modern web applications across multiple technology stacks. I enjoy transforming complex problems into simple, efficient, and maintainable solutions.
+🔭 Currently working on full stack web projects
+🌱 Continuously learning and exploring new technologies
+🤝 Comfortable working in collaborative team environments
+⚡ Interested in backend systems, APIs, and frontend UX
+🛠️ Tech Stack
+Frontend
+React.js
+JavaScript (ES6+)
+HTML5 / CSS3 / SCSS
+Responsive UI Design
+Backend
+Java
+Spring Boot
+Node.js
+Express.js
+Databases
+MySQL
+MongoDB
+Supabase (PostgreSQL)
+Other Tools & Technologies
+REST APIs
+Git & GitHub
+Postman
+VS Code / IntelliJ
+JWT Authentication
+🚀 Projects
+🔹 HeadLinr – News Aggregator
+Tech: Java, Spring Boot, React, MySQL, Eureka, JWT, OAuth
+Architected and developed a modular, real-time news aggregation platform using Spring Boot microservices
+Achieved 88.4% uptime through reliable backend service design
+Implemented secure authentication & authorization using JWT and OAuth
+Designed role-based access control (RBAC), reducing unauthorized access by 30%
+Built responsive UI using React Hooks & Context API for efficient state management
+Designed RESTful APIs for news feeds, bookmarks, and user engagement
+Integrated MySQL for persistent storage with strong data integrity
+Used Eureka Service Discovery for dynamic microservice communication
+🔗 https://github.com/Mihu008/HeadLinr-News-Aggregator
+🔹 LotWise – Portfolio Tracker
+Tech: React, Node.js, Express, Kafka, PostgreSQL, Docker
+Developed a full-featured investment portfolio tracker
+Enabled precise calculations of:
+Profit & Loss (P&L)
+Capital Gains Tax
+Internal Rate of Return (IRR)
+Implemented lot-level stock tracking, allowing tax-efficient selling strategies (FIFO)
+Designed backend focused on data integrity & performance for large datasets
+Integrated Kafka for scalable event-driven workflows
+Used PostgreSQL for structured financial data management
+Containerized the application using Docker for consistent deployment
+🔗 https://github.com/Mihu008/LotWise_Portfolio_Tracker
