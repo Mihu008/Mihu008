@@ -1,32 +1,32 @@
-## Hi there 👋
-## Hi 👋, I'm Mihir Singh Netam 💫
-##__________________________________________________________________________________________________________________________________________
+##                                                   Hi there 👋
+##                                                Mihir Singh Netam 💫
+## __________________________________________________________________________________________________________________________________________
 
- 	## ✨Code || Debug || Deploy || Repeat	✨
+##                                          ✨Code || Debug || Deploy || Repeat	✨
 
 ## __________________________________________________________________________________________________________________________________________
- ##			🧑‍💻 About Me
- ##	  # A Full Stack Developer, Building cool stuff to explore technology💻
+##                                                   🧑‍💻 About Me
+##                            A Full Stack Developer, Building cool stuff to explore technology💻
 ##
-## 		🔭 Currently working on full stack web projects
-## 		🌱 Continuously learning and exploring new technologies
-## 		🤝 Comfortable working in collaborative team environments
-## 		⚡ Interested in backend systems, APIs, and frontend UX
+##                                  🔭 Currently working on full stack web projects
+##                              🌱 Continuously learning and exploring new technologies
+##                              🤝 Comfortable working in collaborative team environments
+##                               ⚡ Interested in backend systems, APIs, and frontend UX
 
-##___________________________________________________________________________________________________________________________________________
-## 			🛠️ Tech Stack
+## ___________________________________________________________________________________________________________________________________________
+##                                                  🛠️ Tech Stack
 
-## 				     🎨 Frontend
-## 	   React.js • JavaScript (ES6+) • HTML5 • CSS3 • SCSS • Responsive UI
+##                                                    🎨 Frontend
+##                              React.js • JavaScript (ES6+) • HTML5 • CSS3 • SCSS • Responsive UI
 
- 				     ##⚙️ Backend
- 			##Java • Spring Boot • Node.js • Express.js
+##                                                     ⚙️ Backend
+##                                         Java • Spring Boot • Node.js • Express.js
 
-    				    ## 🗄️ Databases
- 		## MySQL • MongoDB • Supabase (PostgreSQL)
+##                                                     🗄️ Databases
+##                                       MySQL • MongoDB • Supabase (PostgreSQL)
 
- 			##	🚀 Tools & Technologies
- 	   ##   REST APIs • JWT Auth • Git & GitHub • Postman • VS Code • IntelliJ
+##                                                  🚀 Tools & Technologies
+##                         REST APIs • JWT Auth • Git & GitHub • Postman • AntiGravity • VS Code • IntelliJ
 <!--
 **Mihu008/Mihu008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
