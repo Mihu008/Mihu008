@@ -75,7 +75,7 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 ### WhatsApp Tracking & Automation System
 > A backend-driven automation system that integrates with the WhatsApp Business API to enable structured message tracking, automated response flows, and workflow triggers. Built around an event pipeline where incoming messages are parsed, classified, and routed to appropriate handlers. Supports templated messaging, delivery status tracking, and webhook-based event orchestration — designed to run as a modular service within a larger application backend.
 
-`Node.js` · `Express.js` · `WhatsApp Business API` · `Webhook Architecture` · `MySQL` · `REST`
+`Node.js` · `Express.js` · `WhatsApp Business API` · `Webhook Architecture` · `Supabase` · `REST`
 
 ---
 
