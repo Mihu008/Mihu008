@@ -42,7 +42,7 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,scss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,next,html,css,scss&theme=dark)](https://skillicons.dev)
 
 **Data & Storage**
 
@@ -50,7 +50,7 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 
 **Tooling & Platform**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,antigravity,idea&theme=dark)](https://skillicons.dev)
 
 </div>
 
