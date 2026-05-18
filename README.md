@@ -46,11 +46,11 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 
 **Data & Storage**
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 **Tooling & Platform**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,antigravity,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,notion,idea&theme=dark)](https://skillicons.dev)
 
 </div>
 
