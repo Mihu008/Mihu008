@@ -68,7 +68,7 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 ### Checklist Delegation System
 > A multi-layer task delegation engine built for team workflows. Supports hierarchical task assignment, deadline tracking, completion verification, and role-based access control. Designed with a normalized relational schema to support complex delegation chains without data redundancy. The backend exposes a clean REST API with JWT-secured endpoints; the frontend delivers a responsive dashboard with real-time task state visibility.
 
-`Spring Boot` · `PostgreSQL` · `JWT Auth` · `React.js` · `RBAC` · `REST API` · `SCSS Modules`
+`Express` · `Node.js` · `PostgreSQL` · `JWT Auth` · `React.js` · `RBAC` · `REST API` · `SCSS Modules`
 
 ---
 
