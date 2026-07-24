@@ -58,22 +58,22 @@ Focus Areas    →  Backend Architecture · AI Orchestration · Workflow Automat
 
 ## Featured Systems
 
-### AI Agent Platform *(Active Build)*
+### AI Agent Platform
 > Designing and engineering a modular AI agent system with structured task orchestration, tool-calling pipelines, and persistent memory management. The architecture is built around composable agent modules — each agent operates within a defined scope, can invoke external tools, and passes context through a shared state layer. Focus is on reliability, observability, and the ability to extend capabilities without rearchitecting core flows.
 
 `Agent Orchestration` · `Tool-Calling Pipeline` · `Memory Management` · `Spring Boot` · `REST` · `PostgreSQL`
 
 ---
 
-### Checklist Delegation System
-> A multi-layer task delegation engine built for team workflows. Supports hierarchical task assignment, deadline tracking, completion verification, and role-based access control. Designed with a normalized relational schema to support complex delegation chains without data redundancy. The backend exposes a clean REST API with JWT-secured endpoints; the frontend delivers a responsive dashboard with real-time task state visibility.
+### Unified Ecosystem Engine
+> A unified ERP platform integrating over 20 core operational modules into a single enterprise solution. Engineered with a modular backend architecture to seamlessly handle cross-module workflows, high-concurrency transactions, and centralized state management. The system leverages role-based access control (RBAC) and normalized database schemas to maintain high data integrity, exposing optimized REST endpoints to power a real-time, responsive administration dashboard.
 
 `Express` · `Node.js` · `PostgreSQL` · `JWT Auth` · `React.js` · `RBAC` · `REST API` · `SCSS Modules`
 
 ---
 
-### WhatsApp Tracking & Automation System
-> A backend-driven automation system that integrates with the WhatsApp Business API to enable structured message tracking, automated response flows, and workflow triggers. Built around an event pipeline where incoming messages are parsed, classified, and routed to appropriate handlers. Supports templated messaging, delivery status tracking, and webhook-based event orchestration — designed to run as a modular service within a larger application backend.
+### WhatsApp CRM System
+> An enterprise-grade WhatsApp CRM platform built around a high-concurrency event pipeline for complete messaging lifecycle management. Integrates directly with the WhatsApp Business API to handle inbound message parsing, intent classification, and real-time webhook orchestration. The system features JWT-secured endpoints, a normalized relational data model for contact and conversation states, interactive quick-reply handlers, and templated notification triggers, providing a robust backend foundation for multi-channel sales and support teams.
 
 `Node.js` · `Express.js` · `WhatsApp Business API` · `Webhook Architecture` · `Supabase` · `REST`
 
